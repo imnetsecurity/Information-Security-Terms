@@ -18,7 +18,6 @@ The repository is structured into sections based on the alphabet. Each section c
 
 Example:
 
-```markdown
 | English Term           | Farsi Equivalent          | Explanation (in Farsi)                        |
 | ---------------------- | ------------------------- | --------------------------------------------- |
 | Acceptable Risk         | ریسک قابل قبول             | میزان ریسکی که سازمان می‌تواند آن را بپذیرد.    |
