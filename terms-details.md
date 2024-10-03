@@ -2,8 +2,8 @@
 
 ## Acceptable Risk
 
-
 در حوزه امنیت اطلاعات، ریسک قابل قبول به سطحی از ریسک اشاره دارد که سازمان حاضر است آن را برای دستیابی به اهداف خود بپذیرد. این مفهوم بر اساس این واقعیت است که حذف تمامی ریسک‌ها غیرممکن است. تصمیم‌گیری در مورد ریسک‌های قابل قبول شامل ارزیابی ریسک‌ها و کاهش آنها می‌شود، اما برخی ریسک‌های باقیمانده به دلیل میزان پذیرش ریسک سازمان و منابع و نیازهای عملیاتی آن، قابل پذیرش هستند.
+
 Standard Definition
 IETF
 A risk that is understood and tolerated by a system's user, operator, owner, or accreditor, usually because the cost or difficulty of implementing an effective countermeasure for the associated vulnerability exceeds the expectation of loss.
