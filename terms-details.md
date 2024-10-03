@@ -2,21 +2,36 @@
 
 ## Acceptable Risk
 
-در حوزه امنیت اطلاعات، ریسک قابل قبول به سطحی از ریسک اشاره دارد که سازمان حاضر است آن را برای دستیابی به اهداف خود بپذیرد. این مفهوم بر اساس این واقعیت است که حذف تمامی ریسک‌ها غیرممکن است. تصمیم‌گیری در مورد ریسک‌های قابل قبول شامل ارزیابی ریسک‌ها و کاهش آنها می‌شود، اما برخی ریسک‌های باقیمانده به دلیل میزان پذیرش ریسک سازمان و منابع و نیازهای عملیاتی آن، قابل پذیرش هستند.
+در حوزه امنیت اطلاعات، **ریسک قابل قبول** به سطحی از ریسک اشاره دارد که سازمان حاضر است آن را برای دستیابی به اهداف خود بپذیرد. این مفهوم بر اساس این واقعیت است که حذف تمامی ریسک‌ها غیرممکن است. تصمیم‌گیری در مورد ریسک‌های قابل قبول شامل ارزیابی ریسک‌ها و کاهش آنها می‌شود، اما برخی ریسک‌های باقیمانده به دلیل میزان پذیرش ریسک سازمان و منابع و نیازهای عملیاتی آن، قابل پذیرش هستند.
 
-Standard Definition
-IETF
-A risk that is understood and tolerated by a system's user, operator, owner, or accreditor, usually because the cost or difficulty of implementing an effective countermeasure for the associated vulnerability exceeds the expectation of loss.
+---
 
-DHS
-Acceptable risk is the level of risk at which, given costs and benefits associated with risk reduction measures, no action is deemed to be warranted at a given point in time. [18]
+### Standard Definitions
 
-NIST
-Acceptable risk: the level of Residual Risk that has been determined to be a reasonable level of potential loss/disruption for a specific IT system. Source: NIST SP 800-16
+#### **IETF**
+> *A risk that is understood and tolerated by a system's user, operator, owner, or accreditor, usually because the cost or difficulty of implementing an effective countermeasure for the associated vulnerability exceeds the expectation of loss.*
 
-European Definitions
-ENISA
-Acceptable risk is the level of Residual Risk that has been determined to be a reasonable level of potential loss/disruption for a specific system.
+#### **DHS**
+> *Acceptable risk is the level of risk at which, given costs and benefits associated with risk reduction measures, no action is deemed to be warranted at a given point in time.*
+> 
+> Source: [DHS](#) [18]
+
+#### **NIST**
+> *Acceptable risk: the level of Residual Risk that has been determined to be a reasonable level of potential loss/disruption for a specific IT system.*
+> 
+> Source: *NIST SP 800-16*
+
+#### **European Definitions**
+
+- **ENISA**  
+  *Acceptable risk is the level of Residual Risk that has been determined to be a reasonable level of potential loss/disruption for a specific system.*
+
+---
+
+### Key Concepts
+1. **ریسک قابل قبول** در سازمان‌ها بر اساس معیارهای سازمان و هزینه‌های عملیاتی تعیین می‌شود.
+2. **Definitions** vary across organizations but revolve around the idea of tolerable residual risk.
+3. The **cost-benefit analysis** plays a crucial role in determining acceptable risk.
 
 
 ## Accessibility
