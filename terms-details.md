@@ -24,13 +24,14 @@
 #### **European Definitions**
 
 - **ENISA**  
-  *Acceptable risk is the level of Residual Risk that has been determined to be a reasonable level of potential loss/disruption for a specific system.*
+>  *Acceptable risk is the level of Residual Risk that has been determined to be a reasonable level of potential loss/disruption for a specific system.*
 
 ---
 
 ### Key Concepts
 1. **ریسک قابل قبول** در سازمان‌ها بر اساس معیارهای سازمان و هزینه‌های عملیاتی تعیین می‌شود.
 2. **Definitions** vary across organizations but revolve around the idea of tolerable residual risk.
+
 3. The **cost-benefit analysis** plays a crucial role in determining acceptable risk.
 
 
