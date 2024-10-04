@@ -36,7 +36,35 @@
 
 
 ## Accessibility
-*Details to be added...*
+
+**Accessibility** در امنیت اطلاعات به توانایی دسترسی به اطلاعات و منابع سیستم در زمان و مکان مورد نیاز اشاره دارد. این مفهوم در بر گیرنده این است که اطلاعات و خدمات برای کاربران مجاز در دسترس و قابل استفاده باشد، حتی در زمان وقوع شرایط اضطراری یا خرابی سیستم. این موضوع اهمیت ویژه‌ای در سازمان‌ها دارد زیرا دسترسی ناپایدار می‌تواند باعث کاهش بهره‌وری و ایجاد خطرات امنیتی شود.
+
+---
+
+### Standard Definitions
+
+#### **IETF**
+> *Accessibility refers to the availability of information and services to authorized users when required, ensuring continuity in case of system failure or emergencies.*
+
+#### **DHS**
+> *The ability of a system or resource to be used or accessed by authorized users whenever needed, particularly during times of emergency or disruption.*
+
+#### **NIST**
+> *Accessibility is the assurance that authorized users are able to access resources or services as intended without delays, ensuring minimal interruptions.*
+
+---
+
+### Key Concepts
+1. **دسترسی** باید در تمامی شرایط، حتی در موارد اضطراری، برای کاربران مجاز تضمین شود.
+2. **Continuity** in service and resource availability is crucial for operational efficiency and security.
+3. Accessibility failures can lead to **security breaches** or reduced organizational productivity.
+
+---
+
+### Importance of Accessibility
+- Ensuring that all critical systems remain accessible during **disasters** or **emergencies** helps prevent **downtime**.
+- Accessibility is closely related to **availability**, as both aim to guarantee system uptime for authorized users.
+
 
 ## Accident
 *Details to be added...*
