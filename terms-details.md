@@ -351,7 +351,83 @@
 *Details to be added...*
 
 ## Incident
-*Details to be added...*
+
+### European Definitions
+
+#### **European Commission**
+- *‘Incident’ means an event compromising the availability, authenticity, integrity, or confidentiality of stored, transmitted, or processed data or of the services offered by, or accessible via, network and information systems.*
+
+- *‘Incident’ means an event which has the potential to significantly disrupt, or that disrupts, the provision of an essential service, including when it affects the national systems that safeguard the rule of law.*
+
+- *‘Incident’ means any event compromising the availability, authenticity, integrity, or confidentiality of stored, transmitted, or processed data or of the related services offered by, or accessible via, network and information systems.*
+
+- *Incident means any event having the potential to disrupt, or that disrupts, the operations of the critical entity.*
+
+- *Incident means any event having an actual adverse effect on the security of network and information systems.*
+
+#### **ENISA**
+- *Incident is an event that has been assessed as having an actual or potentially adverse effect on the security or performance of a system.*
+
+---
+
+### United States Definitions
+
+#### **DHS**
+- *Incident is an occurrence, caused by either human action or natural phenomenon, that may cause harm and require action, which can include major disasters, emergencies, terrorist attacks, terrorist threats, wild and urban fires, floods, hazardous materials spills, nuclear accidents, aircraft accidents, earthquakes, hurricanes, tornadoes, tropical storms, war-related disasters, public health and medical emergencies, cyber attacks, cyber failure/accident, and other occurrences requiring an emergency response.*
+
+#### **White House**
+- *Cyber incident: An event occurring on or conducted through a computer network that actually or imminently jeopardizes the integrity, confidentiality, or availability of computers, information, or communications systems or networks, physical or virtual infrastructure controlled by computers or information systems, or information resident thereon. For purposes of this directive, a cyber incident may include a vulnerability in an information system, system security procedures, internal controls, or implementation that could be exploited by a threat source.*
+
+#### **Financial Stability Board**
+- *Cyber incident: is defined as a cyber event that jeopardizes the cybersecurity of an information system or the information the system processes, stores, or transmits; or an event that violates security policies, procedures, or acceptable use policies, whether resulting from malicious activity or not.*
+
+#### **FISMA**
+- *Incident is an occurrence that (A) actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information or an information system; or (B) constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies.*
+
+#### **NIST**
+- *Incident: An occurrence that actually or potentially jeopardizes the confidentiality, integrity, or availability of an information system or the information the system processes, stores, or transmits, or that constitutes a violation or imminent threat of violation of security policies, security procedures, or acceptable use policies.*
+
+---
+
+### German Definitions
+
+#### **Germany (Sicherheitsvorfall)**
+
+- *“Sicherheitsvorfall“ ein Ereignis, das die Verfügbarkeit, Authentizität, Integrität oder Vertraulichkeit gespeicherter, übermittelter oder verarbeiteter Daten oder der Dienste, die über Netz- und Informationssysteme angeboten werden bzw. zugänglich sind, beeinträchtigt.*
+
+- *“Sicherheitsvorfall“ ein Ereignis, das die Erbringung eines wesentlichen Dienstes erheblich stört oder stören könnte, einschließlich einer Beeinträchtigung der nationalen Systeme zur Wahrung der Rechtsstaatlichkeit.*
+
+- *“Sicherheitsvorfall“ alle Ereignisse, die tatsächlich nachteilige Auswirkungen auf die Sicherheit von Netz- und Informationssystemen haben.*
+
+---
+
+### Standard Definitions
+
+#### **ISO/PAS 22399:2007**
+- *Event that might be, or could lead to, an operational interruption, disruption, loss, emergency or crisis.*
+
+#### **ISO 22300:2012(en)**
+- *Situation that might be, or could lead to, a disruption, loss, emergency or crisis.*
+
+#### **NFPA-1600**
+- *An event that has the potential to cause interruption, disruption, loss, emergency, crisis, disaster, or catastrophe.*
+
+---
+
+### Farsi Translation
+
+#### Non-IS Context
+در زمینه‌های غیر امنیت اطلاعات، **حادثه** یا **رویداد** به هر اتفاق ناخواسته یا غیرمنتظره‌ای اشاره دارد که باعث اختلال در ارائه خدمات حیاتی یا عملکرد یک سیستم می‌شود. این شامل خطاهای عملیاتی، نقص تجهیزات، یا رویدادهایی است که به دلیل عملکرد نامناسب ممکن است بر ایمنی یا قابلیت اطمینان سیستم‌ها تأثیر بگذارد.
+
+#### IS Context
+در حوزه امنیت اطلاعات، **حادثه** به هر رویدادی اشاره دارد که بر محرمانگی، یکپارچگی، یا دسترسی‌پذیری اطلاعات یا سیستم‌های اطلاعاتی تأثیر منفی داشته باشد. این می‌تواند شامل نقص‌های امنیتی، حملات سایبری، یا هرگونه تهدیدی باشد که به زیرساخت‌های حساس آسیب برساند.
+
+---
+
+### Key Points
+1. Definitions across different sectors, regions, and standards organizations are consistent in emphasizing that an **incident** typically involves a compromise in availability, authenticity, integrity, or confidentiality.
+2. Both **IS** and **non-IS** incidents share common themes of disruption and harm, although the specific details vary according to context (e.g., cyber incidents vs. natural disaster incidents).
+
 
 ### Incident Management
 *Details to be added...*
