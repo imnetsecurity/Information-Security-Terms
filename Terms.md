@@ -1,218 +1,583 @@
 # A
-# A
-- [Acceptable Risk](terms-details.md#acceptable-risk)
-- [Accessibility](terms-details.md#accessibility)
-- [Accident](terms-details.md#accident)
-- [Active Cyber Prevention](terms-details.md#active-cyber-prevention)
-- [Adaptation](terms-details.md#adaptation)
-  - [Adaptation Assessment](terms-details.md#adaptation-assessment)
-  - [Adaptation Options](terms-details.md#adaptation-options)
-  - [Adaptation Strategies](terms-details.md#adaption-strategies)
-- [Adaptive Capacity](terms-details.md#adaptive-capacity)
-- [Alert](terms-details.md#alert)
-- [All Hazards](terms-details.md#all-hazards)
-- [Asset](terms-details.md#asset)
-- [Attack](terms-details.md#attack)
-  - [Attack Tool](terms-details.md#attack-tool)
-  - [Attack Tree](terms-details.md#attack-tree)
-- [Attribute](terms-details.md#attribute)
-- [Authentication](terms-details.md#authentication)
-- [Authenticity](terms-details.md#authenticity)
-- [Availability](terms-details.md#availability)
-- [A/B testing](terms-details.md#a-b-testing)
-- [Abend](terms-details.md#abend)
-- [Acceptable interruption window (AIW)](terms-details.md#acceptable-interruption-window-aiw)
-- [Acceptable use policy (AUP)](terms-details.md#acceptable-use-policy-aup)
-- [Acceptance criteria](terms-details.md#acceptance-criteria)
-- [Acceptance testing](terms-details.md#acceptance-testing)
-- [Access control](terms-details.md#access-control)
-- [Access control list (ACL)](terms-details.md#access-control-list-acl)
-- [Access control table](terms-details.md#access-control-table)
-- [Access method](terms-details.md#access-method)
-- [Access path](terms-details.md#access-path)
-- [Access point](terms-details.md#access-point)
-- [Access rights](terms-details.md#access-rights)
-- [Access risk](terms-details.md#access-risk)
-- [Access server](terms-details.md#access-server)
-- [Accountability](terms-details.md#accountability)
-- [Accountability of governance](terms-details.md#accountability-of-governance)
-- [Accountable party](terms-details.md#accountable-party)
-- [Accuracy](terms-details.md#accuracy)
-- [Acknowledgment (ACK)](terms-details.md#acknowledgment-ack)
-- [Acquirer](terms-details.md#acquirer)
-- [Acquisition](terms-details.md#acquisition)
-- [Action](terms-details.md#action)
-- [Action plan reappraisal (APR)](terms-details.md#action-plan-reappraisal-apr)
-- [Active recovery site (Mirrored)](terms-details.md#active-recovery-site-mirrored)
-- [Active response](terms-details.md#active-response)
-- [Activity](terms-details.md#activity)
-- [Actuator](terms-details.md#actuator)
-- [AdaGrad](terms-details.md#adagrad)
-- [Address](terms-details.md#address)
-- [Addressing](terms-details.md#addressing)
-- [Addressing exception](terms-details.md#addressing-exception)
-- [Address space](terms-details.md#address-space)
-- [Adjusting period](terms-details.md#adjusting-period)
-- [Administrative access](terms-details.md#administrative-access)
-- [Administrative control](terms-details.md#administrative-control)
-- [Administrative distance](terms-details.md#administrative-distance)
-- [Advanced Encryption Standard (AES)](terms-details.md#advanced-encryption-standard-aes)
-- [Advanced Message Queueing Protocol (AMQP)](terms-details.md#advanced-message-queueing-protocol-amqp)
-- [Advanced persistent threat (APT)](terms-details.md#advanced-persistent-threat-apt)
-- [Adversary](terms-details.md#adversary)
-- [Adware](terms-details.md#adware)
-- [Affected stakeholders](terms-details.md#affected-stakeholders)
-- [Affirmation](terms-details.md#affirmation)
-- [Agent](terms-details.md#agent)
-- [Agile](terms-details.md#agile)
-- [Agile with Scrum](terms-details.md#agile-with-scrum)
-- [Alerting system](terms-details.md#alerting-system)
-- [Alert situation](terms-details.md#alert-situation)
-- [Algorithm](terms-details.md#algorithm)
-- [Algorithm analysis](terms-details.md#algorithm-analysis)
-- [Algorithmic justice](terms-details.md#algorithmic-justice)
-- [Alignment](terms-details.md#alignment)
-- [Alignment goals](terms-details.md#alignment-goals)
-- [Allocated requirement](terms-details.md#allocated-requirement)
-- [Allocation entry](terms-details.md#allocation-entry)
-- [Alpha](terms-details.md#alpha)
-- [Altcoin](terms-details.md#altcoin)
-- [Alternate facilities](terms-details.md#alternate-facilities)
-- [Alternate process](terms-details.md#alternate-process)
-- [Alternative routing](terms-details.md#alternative-routing)
-- [American National Standards Institute (ANSI)](terms-details.md#american-national-standards-institute-ansi)
-- [American Standard Code for Information Interchange (ASCII)](terms-details.md#american-standard-code-for-information-interchange-ascii)
-- [Amortization](terms-details.md#amortization)
-- [Amplitude](terms-details.md#amplitude)
-- [Analog](terms-details.md#analog)
-- [Analysis](terms-details.md#analysis)
-- [Analytical technique](terms-details.md#analytical-technique)
-- [AngularJS](terms-details.md#angularjs)
-- [Annotation](terms-details.md#annotation)
-- [Anomaly](terms-details.md#anomaly)
-- [Anomaly detection](terms-details.md#anomaly-detection)
-- [Anonymity](terms-details.md#anonymity)
-- [Anonymization](terms-details.md#anonymization)
-- [Antimalware](terms-details.md#antimalware)
-- [Antiphishing](terms-details.md#antiphishing)
-- [Antivirus software](terms-details.md#antivirus-software)
-- [Appearance](terms-details.md#appearance)
-- [Appearance of independence](terms-details.md#appearance-of-independence)
-- [Applet](terms-details.md#applet)
-- [Application](terms-details.md#application)
-- [Application acquisition review](terms-details.md#application-acquisition-review)
-- [Application architecture](terms-details.md#application-architecture)
-- [Application benchmarking](terms-details.md#application-benchmarking)
-- [Application containerization](terms-details.md#application-containerization)
-- [Application controls](terms-details.md#application-controls)
-- [Application development review](terms-details.md#application-development-review)
-- [Application development sandbox](terms-details.md#application-development-sandbox)
-- [Application implementation review](terms-details.md#application-implementation-review)
-- [Application layer](terms-details.md#application-layer)
-- [Application maintenance review](terms-details.md#application-maintenance-review)
-- [Application or managed service provider (ASP/MSP)](terms-details.md#application-or-managed-service-provider-asp-msp)
-- [Application program](terms-details.md#application-program)
-- [Application programming](terms-details.md#application-programming)
-- [Application Programming Interface (API)](terms-details.md#application-programming-interface-api)
-- [Application proxy](terms-details.md#application-proxy)
-- [Application security](terms-details.md#application-security)
-- [Application service provider (ASP)](terms-details.md#application-service-provider-asp)
-- [Application software](terms-details.md#application-software)
-- [Application software tracing and mapping](terms-details.md#application-software-tracing-and-mapping)
-- [Application-specific integrated circuits (ASIC)](terms-details.md#application-specific-integrated-circuits-asic)
-- [Application system](terms-details.md#application-system)
-- [Applistructure](terms-details.md#applistructure)
-- [Appraisal](terms-details.md#appraisal)
-- [Appraisal Disclosure Statement (ADS)](terms-details.md#appraisal-disclosure-statement-ads)
-- [Appraisal final findings](terms-details.md#appraisal-final-findings)
-- [Appraisal method](terms-details.md#appraisal-method)
-- [Appraisal objectives](terms-details.md#appraisal-objectives)
-- [Appraisal output](terms-details.md#appraisal-output)
-- [Appraisal participant](terms-details.md#appraisal-participant)
-- [Appraisal rating](terms-details.md#appraisal-rating)
-- [Appraisal results package](terms-details.md#appraisal-results-package)
-- [Appraisal scope](terms-details.md#appraisal-scope)
-- [Appraisal sponsor](terms-details.md#appraisal-sponsor)
-- [Appraisal tailoring](terms-details.md#appraisal-tailoring)
-- [Appraisal teamleader (ATL)](terms-details.md#appraisal-teamleader-atl)
-- [Appraisal team member (ATM)](terms-details.md#appraisal-team-member-atm)
-- [Appropriate evidence](terms-details.md#appropriate-evidence)
-- [Architectural design](terms-details.md#architectural-design)
-- [Architecture](terms-details.md#architecture)
-- [Architecture board](terms-details.md#architecture-board)
-- [Archive](terms-details.md#archive)
-- [Arithmetic logic unit (ALU)](terms-details.md#arithmetic-logic-unit-alu)
-- [Array](terms-details.md#array)
-- [Artifact](terms-details.md#artifact)
-- [Artificial intelligence (AI)](terms-details.md#artificial-intelligence-ai)
-- [ASCII](terms-details.md#ascii)
-- [Assembler](terms-details.md#assembler)
-- [Assembly language](terms-details.md#assembly-language)
-- [Assertion](terms-details.md#assertion)
-- [Assessment](terms-details.md#assessment)
-- [Asset](terms-details.md#asset)
-- [Asset inventory](terms-details.md#asset-inventory)
-- [Asset value (AV)](terms-details.md#asset-value-av)
-- [Assignable cause of process variation](terms-details.md#assignable-cause-of-process-variation)
-- [Assurance](terms-details.md#assurance)
-- [Assurance engagement](terms-details.md#assurance-engagement)
-- [Assurance initiative](terms-details.md#assurance-initiative)
-- [Asymmetric cipher](terms-details.md#asymmetric-cipher)
-- [Asymmetric key (public key)](terms-details.md#asymmetric-key-public-key)
-- [Asynchronous Transfer Mode (ATM)](terms-details.md#asynchronous-transfer-mode-atm)
-- [Asynchronous transmission](terms-details.md#asynchronous-transmission)
-- [Atomic](terms-details.md#atomic)
-- [Atomic swaps](terms-details.md#atomic-swaps)
-- [Attack](terms-details.md#attack)
-- [Attack mechanism](terms-details.md#attack-mechanism)
-- [Attack vector](terms-details.md#attack-vector)
-- [Attention mechanism](terms-details.md#attention-mechanism)
-- [Attenuation](terms-details.md#attenuation)
-- [Attestation](terms-details.md#attestation)
-- [Attest reporting engagement](terms-details.md#attest-reporting-engagement)
-- [Attitude](terms-details.md#attitude)
-- [Attribute sampling](terms-details.md#attribute-sampling)
-- [Audit](terms-details.md#audit)
-- [Auditability](terms-details.md#auditability)
-- [Auditable unit](terms-details.md#auditable-unit)
-- [Audit accountability](terms-details.md#audit-accountability)
-- [Audit authority](terms-details.md#audit-authority)
-- [Audit charter](terms-details.md#audit-charter)
-- [Audit engagement](terms-details.md#audit-engagement)
-- [Audit evidence](terms-details.md#audit-evidence)
-- [Audit expert systems](terms-details.md#audit-expert-systems)
-- [Audit log](terms-details.md#audit-log)
-- [Audit objective](terms-details.md#audit-objective)
-- [Auditor](terms-details.md#auditor)
-- [Auditor’s opinion](terms-details.md#auditors-opinion)
-- [Audit plan](terms-details.md#audit-plan)
-- [Audit program](terms-details.md#audit-program)
-- [Audit responsibility](terms-details.md#audit-responsibility)
-- [Audit risk](terms-details.md#audit-risk)
-- [Audit sampling](terms-details.md#audit-sampling)
-- [Audit subject matter risk](terms-details.md#audit-subject-matter-risk)
-- [Audit trail](terms-details.md#audit-trail)
-- [Audit universe](terms-details.md#audit-universe)
-- [Augmented reality](terms-details.md#augmented-reality)
-- [Authentication](terms-details.md#authentication)
-- [Authentication Header (AH)](terms-details.md#authentication-header-ah)
-- [Authenticity](terms-details.md#authenticity)
-- [Authorization](terms-details.md#authorization)
-- [Automated application controls](terms-details.md#automated-application-controls)
-- [Autoregressive model](terms-details.md#autoregressive-model)
-- [Auxiliary storage](terms-details.md#auxiliary-storage)
-- [Availability](terms-details.md#availability)
-- [Availability risk](terms-details.md#availability-risk)
-- [Average precision](terms-details.md#average-precision)
-- [Awareness](terms-details.md#awareness)
 
+## **[Acceptable Risk](terms-details.md#acceptable-risk)**  
+
+## **[Accessibility](terms-details.md#accessibility)**  
+
+## **[Accident](terms-details.md#accident)**  
+
+## **[Active Cyber Prevention](terms-details.md#active-cyber-prevention)**  
+
+## **[Adaptation](terms-details.md#adaptation)**  
+  - **[Adaptation Assessment](terms-details.md#adaptation-assessment)**  
+  - **[Adaptation Options](terms-details.md#adaptation-options)**  
+  - **[Adaptation Strategies](terms-details.md#adaption-strategies)**  
+
+## **[Adaptive Capacity](terms-details.md#adaptive-capacity)**  
+
+## **[Alert](terms-details.md#alert)**  
+
+## **[All Hazards](terms-details.md#all-hazards)**  
+
+## **[Asset](terms-details.md#asset)**  
+
+## **[Attack](terms-details.md#attack)**  
+  - **[Attack Tool](terms-details.md#attack-tool)**  
+  - **[Attack Tree](terms-details.md#attack-tree)**  
+
+## **[Attribute](terms-details.md#attribute)**  
+
+## **[Authentication](terms-details.md#authentication)**  
+
+## **[Authenticity](terms-details.md#authenticity)**  
+
+## **[Availability](terms-details.md#availability)**  
+
+---
+
+## **[A/B Testing](terms-details.md#a-b-testing)**  
+
+## **[Abend](terms-details.md#abend)**  
+
+## **[Acceptable Interruption Window (AIW)](terms-details.md#acceptable-interruption-window-aiw)**  
+
+## **[Acceptable Use Policy (AUP)](terms-details.md#acceptable-use-policy-aup)**  
+
+## **[Acceptance Criteria](terms-details.md#acceptance-criteria)**  
+
+## **[Acceptance Testing](terms-details.md#acceptance-testing)**  
+
+## **[Access Control](terms-details.md#access-control)**  
+  - **[Access Control List (ACL)](terms-details.md#access-control-list-acl)**  
+  - **[Access Control Table](terms-details.md#access-control-table)**  
+
+## **[Access Method](terms-details.md#access-method)**  
+
+## **[Access Path](terms-details.md#access-path)**  
+
+## **[Access Point](terms-details.md#access-point)**  
+
+## **[Access Rights](terms-details.md#access-rights)**  
+
+## **[Access Risk](terms-details.md#access-risk)**  
+
+## **[Access Server](terms-details.md#access-server)**  
+
+## **[Accountability](terms-details.md#accountability)**  
+  - **[Accountability of Governance](terms-details.md#accountability-of-governance)**  
+
+## **[Accountable Party](terms-details.md#accountable-party)**  
+
+## **[Accuracy](terms-details.md#accuracy)**  
+
+## **[Acknowledgment (ACK)](terms-details.md#acknowledgment-ack)**  
+
+## **[Acquirer](terms-details.md#acquirer)**  
+
+## **[Acquisition](terms-details.md#acquisition)**  
+
+## **[Action](terms-details.md#action)**  
+
+## **[Action Plan Reappraisal (APR)](terms-details.md#action-plan-reappraisal-apr)**  
+
+## **[Active Recovery Site (Mirrored)](terms-details.md#active-recovery-site-mirrored)**  
+
+## **[Active Response](terms-details.md#active-response)**  
+
+## **[Activity](terms-details.md#activity)**  
+
+## **[Actuator](terms-details.md#actuator)**  
+
+## **[AdaGrad](terms-details.md#adagrad)**  
+
+## **[Address](terms-details.md#address)**  
+
+## **[Addressing](terms-details.md#addressing)**  
+  - **[Addressing Exception](terms-details.md#addressing-exception)**  
+
+## **[Address Space](terms-details.md#address-space)**  
+
+## **[Adjusting Period](terms-details.md#adjusting-period)**  
+
+## **[Administrative Access](terms-details.md#administrative-access)**  
+
+## **[Administrative Control](terms-details.md#administrative-control)**  
+
+## **[Administrative Distance](terms-details.md#administrative-distance)**  
+
+## **[Advanced Encryption Standard (AES)](terms-details.md#advanced-encryption-standard-aes)**  
+
+## **[Advanced Message Queueing Protocol (AMQP)](terms-details.md#advanced-message-queueing-protocol-amqp)**  
+
+## **[Advanced Persistent Threat (APT)](terms-details.md#advanced-persistent-threat-apt)**  
+
+## **[Adversary](terms-details.md#adversary)**  
+
+## **[Adware](terms-details.md#adware)**  
+
+## **[Affected Stakeholders](terms-details.md#affected-stakeholders)**  
+
+## **[Affirmation](terms-details.md#affirmation)**  
+
+## **[Agent](terms-details.md#agent)**  
+
+## **[Agile](terms-details.md#agile)**  
+  - **[Agile with Scrum](terms-details.md#agile-with-scrum)**  
+
+## **[Alerting System](terms-details.md#alerting-system)**  
+
+## **[Alert Situation](terms-details.md#alert-situation)**  
+
+## **[Algorithm](terms-details.md#algorithm)**  
+
+## **[Algorithm Analysis](terms-details.md#algorithm-analysis)**  
+
+## **[Algorithmic Justice](terms-details.md#algorithmic-justice)**  
+
+## **[Alignment](terms-details.md#alignment)**  
+  - **[Alignment Goals](terms-details.md#alignment-goals)**  
+
+## **[Allocated Requirement](terms-details.md#allocated-requirement)**  
+
+## **[Allocation Entry](terms-details.md#allocation-entry)**  
+
+## **[Alpha](terms-details.md#alpha)**  
+
+## **[Altcoin](terms-details.md#altcoin)**  
+
+## **[Alternate Facilities](terms-details.md#alternate-facilities)**  
+
+## **[Alternate Process](terms-details.md#alternate-process)**  
+
+## **[Alternative Routing](terms-details.md#alternative-routing)**  
+
+## **[American National Standards Institute (ANSI)](terms-details.md#american-national-standards-institute-ansi)**  
+
+## **[American Standard Code for Information Interchange (ASCII)](terms-details.md#american-standard-code-for-information-interchange-ascii)**  
+
+## **[Amortization](terms-details.md#amortization)**  
+
+## **[Amplitude](terms-details.md#amplitude)**  
+
+## **[Analog](terms-details.md#analog)**  
+
+## **[Analysis](terms-details.md#analysis)**  
+  - **[Analytical Technique](terms-details.md#analytical-technique)**  
+
+## **[AngularJS](terms-details.md#angularjs)**  
+
+## **[Annotation](terms-details.md#annotation)**  
+
+## **[Anomaly](terms-details.md#anomaly)**  
+  - **[Anomaly Detection](terms-details.md#anomaly-detection)**  
+
+## **[Anonymity](terms-details.md#anonymity)**  
+
+## **[Anonymization](terms-details.md#anonymization)**  
+
+## **[Antimalware](terms-details.md#antimalware)**  
+
+## **[Antiphishing](terms-details.md#antiphishing)**  
+
+## **[Antivirus Software](terms-details.md#antivirus-software)**  
+
+## **[Appearance](terms-details.md#appearance)**  
+  - **[Appearance of Independence](terms-details.md#appearance-of-independence)**  
+
+## **[Applet](terms-details.md#applet)**  
+
+## **[Application](terms-details.md#application)**  
+  - **[Application Acquisition Review](terms-details.md#application-acquisition-review)**  
+  - **[Application Architecture](terms-details.md#application-architecture)**  
+  - **[Application Benchmarking](terms-details.md#application-benchmarking)**  
+  - **[Application Containerization](terms-details.md#application-containerization)**  
+  - **[Application Controls](terms-details.md#application-controls)**  
+  - **[Application Development Review](terms-details.md#application-development-review)**  
+  - **[Application Development Sandbox](terms-details.md#application-development-sandbox)**  
+  - **[Application Implementation Review](terms-details.md#application-implementation-review)**  
+  - **[Application Layer](terms-details.md#application-layer)**  
+  - **[Application Maintenance Review](terms-details.md#application-maintenance-review)**  
+  - **[Application or Managed Service Provider (ASP/MSP)](terms-details.md#application-or-managed-service-provider-asp-msp)**  
+  - **[Application Program](terms-details.md#application-program)**  
+  - **[Application Programming](terms-details.md#application-programming)**  
+  - **[Application Programming Interface (API)](terms-details.md#application-programming-interface-api)**  
+  - **[Application Proxy](terms-details.md#application-proxy)**  
+  - **[Application Security](terms-details.md#application-security)**  
+  - **[Application Service Provider (ASP)](terms-details.md#application-service-provider-asp)**  
+  - **[Application Software](terms-details.md#application-software)**  
+  - **[Application Software Tracing and Mapping](terms-details.md#application-software-tracing-and-mapping)**  
+  - **[Application-Specific Integrated Circuits (ASIC)](terms-details.md#application-specific-integrated-circuits-asic)**  
+  - **[Application System](terms-details.md#application-system)**  
+
+## **[Applistructure](terms-details.md#applistructure)**  
+
+## **[Appraisal](terms-details.md#appraisal)**  
+  - **[Appraisal Disclosure Statement (ADS)](terms-details.md#appraisal-disclosure-statement-ads)**  
+  - **[Appraisal Final Findings](terms-details.md#appraisal-final-findings)**  
+  - **[Appraisal Method](terms-details.md#appraisal-method)**  
+  - **[Appraisal Objectives](terms-details.md#appraisal-objectives)**  
+  - **[Appraisal Output](terms-details.md#appraisal-output)**  
+  - **[Appraisal Participant](terms-details.md#appraisal-participant)**  
+  - **[Appraisal Rating](terms-details.md#appraisal-rating)**  
+  - **[Appraisal Results Package](terms-details.md#appraisal-results-package)**  
+  - **[Appraisal Scope](terms-details.md#appraisal-scope)**  
+  - **[Appraisal Sponsor](terms-details.md#appraisal-sponsor)**  
+  - **[Appraisal Tailoring](terms-details.md#appraisal-tailoring)**  
+  - **[Appraisal Teamleader (ATL)](terms-details.md#appraisal-teamleader-atl)**  
+  - **[Appraisal Team Member (ATM)](terms-details.md#appraisal-team-member-atm)**  
+
+## **[Appropriate Evidence](terms-details.md#appropriate-evidence)**  
+
+## **[Architectural Design](terms-details.md#architectural-design)**  
+
+## **[Architecture](terms-details.md#architecture)**  
+  - **[Architecture Board](terms-details.md#architecture-board)**  
+
+## **[Archive](terms-details.md#archive)**  
+
+## **[Arithmetic Logic Unit (ALU)](terms-details.md#arithmetic-logic-unit-alu)**  
+
+## **[Array](terms-details.md#array)**  
+
+## **[Artifact](terms-details.md#artifact)**  
+
+## **[Artificial Intelligence (AI)](terms-details.md#artificial-intelligence-ai)**  
+
+## **[ASCII](terms-details.md#ascii)**  
+
+## **[Assembler](terms-details.md#assembler)**  
+
+## **[Assembly Language](terms-details.md#assembly-language)**  
+
+## **[Assertion](terms-details.md#assertion)**  
+
+## **[Assessment](terms-details.md#assessment)**  
+
+## **[Asset](terms-details.md#asset)**  
+  - **[Asset Inventory](terms-details.md#asset-inventory)**  
+  - **[Asset Value (AV)](terms-details.md#asset-value-av)**  
+
+## **[Assignable Cause of Process Variation](terms-details.md#assignable-cause-of-process-variation)**  
+
+## **[Assurance](terms-details.md#assurance)**  
+  - **[Assurance Engagement](terms-details.md#assurance-engagement)**  
+  - **[Assurance Initiative](terms-details.md#assurance-initiative)**  
+
+## **[Asymmetric Cipher](terms-details.md#asymmetric-cipher)**  
+
+## **[Asymmetric Key (Public Key)](terms-details.md#asymmetric-key-public-key)**  
+
+## **[Asynchronous Transfer Mode (ATM)](terms-details.md#asynchronous-transfer-mode-atm)**  
+
+## **[Asynchronous Transmission](terms-details.md#asynchronous-transmission)**  
+
+## **[Atomic](terms-details.md#atomic)**  
+  - **[Atomic Swaps](terms-details.md#atomic-swaps)**  
+
+## **[Attack](terms-details.md#attack)**  
+  - **[Attack Mechanism](terms-details.md#attack-mechanism)**  
+  - **[Attack Vector](terms-details.md#attack-vector)**  
+
+## **[Attention Mechanism](terms-details.md#attention-mechanism)**  
+
+## **[Attenuation](terms-details.md#attenuation)**  
+
+## **[Attestation](terms-details.md#attestation)**  
+  - **[Attest Reporting Engagement](terms-details.md#attest-reporting-engagement)**  
+
+## **[Attitude](terms-details.md#attitude)**  
+
+## **[Attribute Sampling](terms-details.md#attribute-sampling)**  
+
+## **[Audit](terms-details.md#audit)**  
+  - **[Auditability](terms-details.md#auditability)**  
+  - **[Auditable Unit](terms-details.md#auditable-unit)**  
+  - **[Audit Accountability](terms-details.md#audit-accountability)**  
+  - **[Audit Authority](terms-details.md#audit-authority)**  
+  - **[Audit Charter](terms-details.md#audit-charter)**  
+  - **[Audit Engagement](terms-details.md#audit-engagement)**  
+  - **[Audit Evidence](terms-details.md#audit-evidence)**  
+  - **[Audit Expert Systems](terms-details.md#audit-expert-systems)**  
+  - **[Audit Log](terms-details.md#audit-log)**  
+  - **[Audit Objective](terms-details.md#audit-objective)**  
+  - **[Auditor](terms-details.md#auditor)**  
+  - **[Auditor’s Opinion](terms-details.md#auditors-opinion)**  
+  - **[Audit Plan](terms-details.md#audit-plan)**  
+  - **[Audit Program](terms-details.md#audit-program)**  
+  - **[Audit Responsibility](terms-details.md#audit-responsibility)**  
+  - **[Audit Risk](terms-details.md#audit-risk)**  
+  - **[Audit Sampling](terms-details.md#audit-sampling)**  
+  - **[Audit Subject Matter Risk](terms-details.md#audit-subject-matter-risk)**  
+  - **[Audit Trail](terms-details.md#audit-trail)**  
+
+## **[Audit Universe](terms-details.md#audit-universe)**  
+
+## **[Augmented Reality](terms-details.md#augmented-reality)**  
+
+## **[Authentication](terms-details.md#authentication)**  
+  - **[Authentication Header (AH)](terms-details.md#authentication-header-ah)**  
+
+## **[Authenticity](terms-details.md#authenticity)**  
+
+## **[Authorization](terms-details.md#authorization)**  
+
+## **[Automated Application Controls](terms-details.md#automated-application-controls)**  
+
+## **[Autoregressive Model](terms-details.md#autoregressive-model)**  
+
+## **[Auxiliary Storage](terms-details.md#auxiliary-storage)**  
+
+## **[Availability](terms-details.md#availability)**  
+  - **[Availability Risk](terms-details.md#availability-risk)**  
+
+## **[Average Precision](terms-details.md#average-precision)**  
+
+## **[Awareness](terms-details.md#awareness)**  
+
+---
 
 # B
-- [Best Practise](terms-details.md#best-practise)
-- [Biological Hazard](terms-details.md#biological-hazard)
-- [Blackout](terms-details.md#blackout)
-- [Brownout](terms-details.md#brownout)
-- [Bulk Power System](terms-details.md#bulk-power-system)
+
+## **[Backbone](terms-details.md#backbone)**  
+
+## **[Backdoor](terms-details.md#backdoor)**  
+
+## **[Backpropagation](terms-details.md#backpropagation)**  
+
+## **[Backup](terms-details.md#backup)**  
+
+## **[Backup Center](terms-details.md#backup-center)**  
+
+## **[Bad Actor](terms-details.md#bad-actor)**  
+
+## **[Badge](terms-details.md#badge)**  
+
+## **[Balanced Scorecard (BSC)](terms-details.md#balanced-scorecard-bsc)**  
+
+## **[Bandwidth](terms-details.md#bandwidth)**  
+
+## **[Bar Code](terms-details.md#bar-code)**  
+
+## **[Base58 Encoding](terms-details.md#base58-encoding)**  
+
+## **[Base64 Encoding](terms-details.md#base64-encoding)**  
+
+## **[Baseband](terms-details.md#baseband)**  
+
+## **[Base Case](terms-details.md#base-case)**  
+
+## **[Baseline](terms-details.md#baseline)**  
+
+## **[Baseline Architecture](terms-details.md#baseline-architecture)**  
+
+## **[Base Measure](terms-details.md#base-measure)**  
+
+## **[BASIC](terms-details.md#basic)**  
+
+## **[Bastion](terms-details.md#bastion)**  
+
+## **[Batch Control](terms-details.md#batch-control)**  
+
+## **[Batch Processing](terms-details.md#batch-processing)**  
+
+## **[Baud Rate](terms-details.md#baud-rate)**  
+
+## **[Bayes' Theorem](terms-details.md#bayes-theorem)**  
+
+## **[Bayesian Analysis](terms-details.md#bayesian-analysis)**  
+
+## **[Bayesian Network](terms-details.md#bayesian-network)**  
+
+## **[Benchmark](terms-details.md#benchmark)**  
+
+## **[Benchmark Appraisal](terms-details.md#benchmark-appraisal)**  
+
+## **[Benchmarking](terms-details.md#benchmarking)**  
+
+## **[Benchmark Model View](terms-details.md#benchmark-model-view)**  
+
+## **[Benefit](terms-details.md#benefit)**  
+
+## **[Benefits Realization](terms-details.md#benefits-realization)**  
+
+## **[Best Practice](terms-details.md#best-practise)**  
+
+## **[Bias](terms-details.md#bias)**  
+
+## **[Bidirectional Traceability](terms-details.md#bidirectional-traceability)**  
+
+## **[Big Data](terms-details.md#big-data)**  
+
+## **[Big Game Hunter (BGH)](terms-details.md#big-game-hunter-bgh)**  
+
+## **[Binary](terms-details.md#binary)**  
+
+## **[Binary Classification](terms-details.md#binary-classification)**  
+
+## **[Binary Code](terms-details.md#binary-code)**  
+
+## **[Binding Corporate Rules (BCRs)](terms-details.md#binding-corporate-rules-bcrs)**  
+
+## **[Binomial Distribution](terms-details.md#binomial-distribution)**  
+
+## **[Biological Hazard](terms-details.md#biological-hazard)**  
+
+## **[Biometric Data](terms-details.md#biometric-data)**  
+
+## **[Biometric Locks](terms-details.md#biometric-locks)**  
+
+## **[Biometrics](terms-details.md#biometrics)**  
+
+## **[BIOS](terms-details.md#bios)**  
+
+## **[Bit](terms-details.md#bit)**  
+
+## **[Bit-stream Image](terms-details.md#bit-stream-image)**  
+
+## **[Black Box Testing](terms-details.md#black-box-testing)**  
+
+## **[Blockchain](terms-details.md#blockchain)**  
+
+## **[Blockchain Explorers](terms-details.md#blockchain-explorers)**  
+
+## **[Block Cipher](terms-details.md#block-cipher)**  
+
+## **[Block Height](terms-details.md#block-height)**  
+
+## **[Block Producers](terms-details.md#block-producers)**  
+
+## **[Blueprint](terms-details.md#blueprint)**  
+
+## **[Blackout](terms-details.md#blackout)**  
+
+## **[Blue Team](terms-details.md#blue-team)**  
+
+## **[Bluetooth](terms-details.md#bluetooth)**  
+
+## **[Bomb](terms-details.md#bomb)**  
+
+## **[Boolean](terms-details.md#boolean)**  
+
+## **[Boosting](terms-details.md#boosting)**  
+
+## **[Boot](terms-details.md#boot)**  
+
+## **[Bootstrap](terms-details.md#bootstrap)**  
+
+## **[Botnet](terms-details.md#botnet)**  
+
+## **[Boundary](terms-details.md#boundary)**  
+
+## **[Boundary Value](terms-details.md#boundary-value)**  
+
+## **[Boundary Value Analysis](terms-details.md#boundary-value-analysis)**  
+
+## **[Branch](terms-details.md#branch)**  
+
+## **[Branch Analysis](terms-details.md#branch-analysis)**  
+
+## **[Branch Coverage](terms-details.md#branch-coverage)**  
+
+## **[Bridge](terms-details.md#bridge)**  
+
+## **[Bring Your Own Device (BYOD)](terms-details.md#bring-your-own-device-byod)**  
+
+## **[Broadband](terms-details.md#broadband)**  
+
+## **[Broadcast](terms-details.md#broadcast)**  
+
+## **[Brouter](terms-details.md#brouter)**  
+
+## **[Browser](terms-details.md#browser)**  
+
+## **[Browser Protection](terms-details.md#browser-protection)**  
+
+## **[Brownout](terms-details.md#brownout)**  
+
+## **[Brute Force](terms-details.md#brute-force)**  
+
+## **[Brute-force Attack](terms-details.md#brute-force-attack)**  
+
+## **[Budget](terms-details.md#budget)**  
+
+## **[Budget Formula](terms-details.md#budget-formula)**  
+
+## **[Budget Hierarchy](terms-details.md#budget-hierarchy)**  
+
+## **[Budget Organization](terms-details.md#budget-organization)**  
+
+## **[Buffer](terms-details.md#buffer)**  
+
+## **[Buffer Overflow](terms-details.md#buffer-overflow)**  
+
+## **[Bug](terms-details.md#bug)**  
+
+## **[Bulk Data Transfer](terms-details.md#bulk-data-transfer)**  
+
+## **[Bulk Power System](terms-details.md#bulk-power-system)**  
+
+## **[Bus](terms-details.md#bus)**  
+
+## **[Bus Configuration](terms-details.md#bus-configuration)**  
+
+## **[Business Balanced Scorecard](terms-details.md#business-balanced-scorecard)**  
+
+## **[Business Case](terms-details.md#business-case)**  
+
+## **[Business Continuity](terms-details.md#business-continuity)**  
+
+## **[Business Continuity Plan (BCP)](terms-details.md#business-continuity-plan-bcp)**  
+
+## **[Business Control](terms-details.md#business-control)**  
+
+## **[Business Dependency Assessment (BDA)](terms-details.md#business-dependency-assessment-bda)**  
+
+## **[Business Function](terms-details.md#business-function)**  
+
+## **[Business Goal](terms-details.md#business-goal)**  
+
+## **[Business Impact](terms-details.md#business-impact)**  
+
+## **[Business Impact Analysis (BIA)](terms-details.md#business-impact-analysis-bia)**  
+
+## **[Business Interruption](terms-details.md#business-interruption)**  
+
+## **[Business Model for Information Security](terms-details.md#business-model-for-information-security)**  
+
+## **[Business Objective](terms-details.md#business-objective)**  
+
+## **[Business Performance](terms-details.md#business-performance)**  
+
+## **[Business Process](terms-details.md#business-process)**  
+
+## **[Business Process Control](terms-details.md#business-process-control)**  
+
+## **[Business Process Integrity](terms-details.md#business-process-integrity)**  
+
+## **[Business Process Owner](terms-details.md#business-process-owner)**  
+
+## **[Business Process Reengineering (BPR)](terms-details.md#business-process-reengineering-bpr)**  
+
+## **[Business Risk](terms-details.md#business-risk)**  
+
+## **[Business Service Provider (BSP)](terms-details.md#business-service-provider-bsp)**  
+
+## **[Business Sponsor](terms-details.md#business-sponsor)**  
+
+## **[Business-to-Business (B-to-B)](terms-details.md#business-to-business-b-to-b)**  
+
+## **[Business-to-Consumer (B-to-C)](terms-details.md#business-to-consumer-b-to-c)**  
+
+## **[Business-to-Consumer Ecommerce (B2C)](terms-details.md#business-to-consumer-ecommerce-b2c)**  
+
+## **[Bus Topology](terms-details.md#bus-topology)**  
+
+## **[Bypass Label Processing (BLP)](terms-details.md#bypass-label-processing-blp)**  
+
+## **[Byte](terms-details.md#byte)**  
+
+## **[Byzantine Fault Tolerance (BFT)](terms-details.md#byzantine-fault-tolerance-bft)**  
+
 
 # C
 - [CBRN](terms-details.md#cbrn)
